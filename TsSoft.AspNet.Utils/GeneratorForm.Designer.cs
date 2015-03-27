@@ -127,7 +127,7 @@
             this.Name = "GeneratorForm";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "TsSoft.AspNet.Utils Membership Password Generator";
+            this.Text = "TsSoft.AspNet.Utils - Membership Password Generator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
